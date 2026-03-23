@@ -489,16 +489,17 @@ For support, email dshivasaivarun@gmail.com or open an issue on GitHub.
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page]()
+![Home Page](screenshots/home.png)
+
+### Login Page
+![Chat](screenshots/login.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Collaborative Editor
-![Editor](screenshots/editor.png)
+### Room
+![Editor](screenshots/room.png)
 
-### Chat System
-![Chat](screenshots/chat.png)
 
 ---
 
